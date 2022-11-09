@@ -1,0 +1,25 @@
+.rectangle {
+  background: linear-gradient(
+    94.6deg,
+    rgba(58, 51, 72, 0.5) 0.36%,
+    rgba(40, 34, 50, 0.43) 20.13%,
+    rgba(51, 44, 64, 0.35) 39.85%,
+    rgba(50, 39, 71, 0.322222) 50.23%,
+    rgba(47, 35, 67, 0.3) 58.54%,
+    rgba(55, 41, 79, 0.37) 79.81%,
+    rgba(41, 27, 66, 0.47) 100%
+  );
+  box-shadow: 0px 4px 40px -1px #000000;
+  max-width: 1096px;
+  border: 3px solid transparent;
+  margin-left: 7%;
+
+  border-top-left-radius: 0.75rem;
+  border-bottom-right-radius: 0.75rem;
+
+  border-image-source: linear-gradient(94.83deg, #9c3ad9 0%, #f76e64 100%);
+  border-image-slice: 1;
+  margin-bottom: 30px;
+  backdrop-filter: blur(60px);
+  padding: 2.5rem 3rem;
+}

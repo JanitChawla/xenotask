@@ -25,8 +25,8 @@
 
 ## I have developed a simple responsive website which:-
 - Enables users to register into it by using email and password.
-- User logs into it using the same credentials.
-- User is allowed to Contact the admin by suggesting changes.
+- Allows User to login using the same credentials.
+- Allows a user to Contact us suggesting any changes or withn any feedbacks.
 - Is Fully Responsive
 
 

@@ -27,6 +27,7 @@
 - Enables users to register into it by using email and password.
 - User logs into it using the same credentials.
 - User is allowed to Contact the admin by suggesting changes.
+- Is Fully Responsive
 
 
 ## Screenshots

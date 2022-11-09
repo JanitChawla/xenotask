@@ -26,6 +26,8 @@
 ## I have developed a simple responsive website which:-
 - Enables users to register into it by using email and password.
 - Allows User to login using the same credentials.
+- Allows user to logout.
+- Does not allow a user to signin/login until he/she logsout from previous account.
 - Allows a user to Contact us suggesting any changes or withn any feedbacks.
 - Is Fully Responsive
 
